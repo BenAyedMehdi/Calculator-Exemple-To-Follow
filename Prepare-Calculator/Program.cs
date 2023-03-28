@@ -15,3 +15,7 @@ Console.WriteLine("The difference is: " + difference);
 Multiplication mult = new Multiplication();
 double product = mult.Perform(num1, num2);
 Console.WriteLine("The product is: " + product);
+
+Division div = new Division();
+double quotient = div.Perform(num1, num2);
+Console.WriteLine("The quotient is: " + quotient);
