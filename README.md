@@ -13,3 +13,11 @@ To check the status of your working directory, use the following command:
 ```bash
 git status
 ```
+
+## Adding changes to the staging area
+
+To add changes to the staging area, use the following command:
+
+```bash
+git add .
+```
