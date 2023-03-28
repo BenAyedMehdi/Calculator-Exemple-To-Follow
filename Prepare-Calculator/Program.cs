@@ -19,3 +19,5 @@ Console.WriteLine("The product is: " + product);
 Division div = new Division();
 double quotient = div.Perform(num1, num2);
 Console.WriteLine("The quotient is: " + quotient);
+
+Console.ReadLine();
