@@ -11,3 +11,7 @@ Console.WriteLine("The sum is: " + sum);
 Subtraction sub = new Subtraction();
 double difference = sub.Perform(num1, num2);
 Console.WriteLine("The difference is: " + difference);
+
+Multiplication mult = new Multiplication();
+double product = mult.Perform(num1, num2);
+Console.WriteLine("The product is: " + product);
