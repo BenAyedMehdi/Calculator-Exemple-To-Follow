@@ -21,3 +21,11 @@ To add changes to the staging area, use the following command:
 ```bash
 git add .
 ```
+
+## Committing changes to the local repository
+
+To commit changes to the local repository, use the following command:
+
+```bash
+git commit -m "Your commit message"
+```
