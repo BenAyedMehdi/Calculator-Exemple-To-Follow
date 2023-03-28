@@ -1,4 +1,12 @@
 # Git cheat sheet
+## Cloning an remote repository to your local machine
+To copy an online repository to your local machine, use the following command:
+
+```bash
+git clone <url>
+```
+This will create a new directory with the same name as the online repository and download all the files and history from the remote repository to your local machine.
+
 ## Creating a new develop branch
 
 To create a new develop branch from the master branch, use the following command:
