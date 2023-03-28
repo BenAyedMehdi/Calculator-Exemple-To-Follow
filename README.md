@@ -1,3 +1,6 @@
+# Task description
+We will work as a team to create a simple calculator project using c# while applying Gitflow practice. The calculator project will simply perform addintion, subtraction, multiplication and devision. In order to complete this project, we will assign tasks to each team member.
+
 # Git cheat sheet
 ## Cloning an remote repository to your local machine
 To copy an online repository to your local machine, use the following command:
