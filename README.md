@@ -37,3 +37,14 @@ To push changes to the remote repository, use the following command:
 ```bash
 git push origin develop
 ```
+
+## Merging feature branch into develop
+
+To merge a feature branch into develop, use the following commands:
+
+```bash
+git checkout develop # switch to develop branch
+git pull origin develop # update develop branch from remote
+git merge feature # merge feature branch into develop
+git push origin develop # push changes to remote
+```
