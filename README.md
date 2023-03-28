@@ -29,3 +29,11 @@ To commit changes to the local repository, use the following command:
 ```bash
 git commit -m "Your commit message"
 ```
+
+## Pushing changes to the remote repository
+
+To push changes to the remote repository, use the following command:
+
+```bash
+git push origin develop
+```
