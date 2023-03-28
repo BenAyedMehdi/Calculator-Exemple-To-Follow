@@ -48,3 +48,13 @@ git pull origin develop # update develop branch from remote
 git merge feature # merge feature branch into develop
 git push origin develop # push changes to remote
 ```
+## Pulling changes from the remote repository
+
+To get changes from the remote repository, use the following command:
+
+```bash
+git pull origin <branch-name>
+```
+This will download the latest changes from the remote origin repository and merge them into your local branch. You may need to resolve any merge conflicts that arise during the process.
+
+Pulling changes from the remote repository is useful when you want to update your local branch with the latest changes made by other developers or yourself on another machine. You should always pull changes before pushing your own changes to avoid conflicts and keep your branches in sync.
